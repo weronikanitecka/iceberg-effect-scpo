@@ -14,8 +14,6 @@ A two-phase computational audit of U.S. immigration enforcement data.
 
 **Phase 2:** ICE Arrests individual-level, 713,464 records, Oct 2022–Mar 2026
 
-Cite as: *"Government data provided by ICE in response to a FOIA request, processed by the Deportation Data Project."*
-
 ## Setup & Run
 
 ```shell

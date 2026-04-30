@@ -1,4 +1,4 @@
-## Arrested by the Algorithm: Pipeline Bias in U.S. Immigration Enforcement Data
+## Data & Algorithmic Bias in U.S. Immigration Enforcement Data
 
 ## Overview
 

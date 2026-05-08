@@ -1,6 +1,4 @@
-## Data & Algorithmic Bias in U.S. Immigration Enforcement Data
-
-## Overview
+## Algorithmic & Data Pipeline Bias in U.S. Immigration Enforcement Data
 
 A two-phase computational audit of U.S. immigration enforcement data.
 
@@ -58,20 +56,10 @@ bash phase2_pipeline/run_phase2.sh
 | 8 | Records integrity | Professor feedback |
 | 9 | Extended outcome | Voluntary departure |
 
-## Critical Limitations
+## Limitations
 
 1. **No causal identification** \- pipeline selection is not random  
 2. **Records falsification concern** \- DDP flags reliability issues; 98.3% label consistency is unusual  
 3. **Policy confounders** \- 2022–2024 CAP expansion; year FEs partially control  
 4. **Unobserved confounders** \- prior orders, legal representation, court backlog  
 5. **Selection** \- only arrested individuals in dataset
-
-## References
-
-Gardner & Kohli (2009). *The C.A.P. Effect.* Warren Institute UC Berkeley.   
-Golash-Boza (2015). *Deported.* NYU Press.   
-Eubanks (2018). *Automating Inequality.* St. Martin's Press.   
-Crawford (2021). *Atlas of AI.* Yale UP.   
-Obermeyer et al. (2019). Racial bias in algorithm. *Science* 366(6464).   
-Friedler et al. (2019). Fairness-enhancing interventions. *FAccT*.   
-Scott (1998). *Seeing Like a State.* Yale UP.
